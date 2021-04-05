@@ -1,2 +1,5 @@
 # raspi_project
-Smart Home with Raspberry-pi3
+<hr>
+
+Repository ini dibuat oleh Mohamad Farizal Arifin & Febro Herdyanto <br>
+Teknik Informatika - Universitas Peita Bangsa
